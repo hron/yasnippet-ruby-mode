@@ -1,6 +1,6 @@
-#name : do |variable| ... end
+#name : do ... end
 #group : Blocks
 # --
-do |${1:variable}|
+do
   $0
 end
